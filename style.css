@@ -328,47 +328,47 @@ body > main > section.Research > div{
 margin-top: 937px;
 }
 
-body > main > section.main_body > section{
+body > main > section.main_body > section.Research{
 width: 1000px;
 margin-left:-300px;
 margin-top: 62px;
 }
 
-body > main > section.main_body > section > h3{
+body > main > section.main_body > section.Research > h3{
 margin-top: 40px;
 margin-bottom: -25px;
 border: solid;
 font-family: 'Oswald', san-serif;
 }
 
-body > main > section.main_body > section > div > div > ul > li > h3{
+body > main > section.main_body > section.Research > div > div > ul > li > h3{
 border: none;
 }
 
-body > main > section.main_body > section > div > div:nth-child(1) > ul > li > p{
+body > main > section.main_body > section.Research > div > div:nth-child(1) > ul > li > p{
 padding-top: 10px;
 margin-bottom: -30px;
 }
 
-body > main > section.main_body > section > div > div:nth-child(1){
+body > main > section.main_body > section.Research > div > div:nth-child(1){
 margin-top: -30px;
 }
 
-body > main > section.main_body > section > div > div:nth-child(2){
+body > main > section.main_body > section.Research > div > div:nth-child(2){
 margin-top: -30px;
 }
 
-body > main > section.main_body > section > div > div:nth-child(2) > ul > li:nth-child(1) > p{
+body > main > section.main_body > section.Research > div > div:nth-child(2) > ul > li:nth-child(1) > p{
 padding-top: 10px;
 margin-bottom: -30px;
 }
 
-body > main > section.main_body > section > div > div:nth-child(2) > ul > li:nth-child(2) > p{
+body > main > section.main_body > section.Research > div > div:nth-child(2) > ul > li:nth-child(2) > p{
 padding-top: 10px;
 }
 
-body > main > section.main_body > section > div > div:nth-child(1) > ul > li:nth-child(2) > h3
+body > main > section.main_body > section.Research > div > div:nth-child(1) > ul > li:nth-child(2) > h3
 
-body > main > section.main_body > section > div > div:nth-child(1) > ul > li{
+body > main > section.main_body > section.Research > div > div:nth-child(1) > ul > li{
 
 }
