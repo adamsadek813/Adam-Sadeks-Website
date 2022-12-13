@@ -47,7 +47,7 @@ border-style: double;
     text-align: center;
     width: 954px;
     height: 30px;
-    background: skyblue;
+    background: rgba(200,200,500);
 }
 
 #horizontal-list > li:nth-child(1){
