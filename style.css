@@ -47,7 +47,7 @@ border-style: double;
     text-align: center;
     width: 954px;
     height: 30px;
-    background: cadetblue;
+    background: skyblue;
 }
 
 #horizontal-list > li:nth-child(1){
@@ -57,13 +57,12 @@ padding-right: 56.9px;
 padding-top: 20px;
 padding-bottom: 0px;
 font-size: 20px;
-background-color: skyblue;
+background-color: #d0e1f3;
 position: absolute;
-margin-top: -20px;
 border-style: double;
 border-bottom: 5px;
-margin-top: -23px;
-height: 30px;
+margin-top: -21px;
+height: 29px;
 margin-left: -244px;
 }
 
@@ -80,13 +79,12 @@ margin-left: -45px;
     padding-top: 20px;
     padding-bottom: 0px;
     font-size: 20px;
-    background-color: skyblue;
+    background-color: #d0e1f3;
     position: absolute;
-    margin-top: -20px;
     margin-left: 50px;
     border-style: double;
 border-bottom: 5px;
-margin-top: -23px;
+margin-top: -21px;
 height: 30px;
 width: 90px;
 }
@@ -114,7 +112,7 @@ margin-bottom:-15px;
 }
 
 body {
-background-color: paleturquoise;
+background-color: #d0e1f3;
 margin: auto;
 width: 1000px;
 font-family: 'EB Garamond', serif;
