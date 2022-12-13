@@ -328,10 +328,10 @@ margin-top: 937px;
 body > main > section.main_body > section{
 width: 1000px;
 margin-left:-300px;
-margin-top: 62px;
 }
 
-
+body > main > section.main_body > section > div > ul > li:nth-child(1){
+	padding-top: 0px;
 }
 
 body > main > section.main_body > section > h3{
