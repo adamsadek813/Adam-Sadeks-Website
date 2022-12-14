@@ -206,5 +206,22 @@ body > main > section.HASKELL > p{
 }
 
 body > main > section.Research > div{
-margin-top: 937px;
+	margin-top: -20px;
+}
+
+body > main > section.Research > div > ul > li > p{
+	width: 975px;
+	margin-top: -18px;
+}
+
+body > main > section.Research > div > ul > li:nth-child(2) > h3{
+	margin-top: 55px;
+}
+
+body > main > section.Research > div > ul > li:nth-child(3) > h3{
+	margin-top: 35px;
+}
+
+body > main > section.Research > div > ul > li:nth-child(4) > h3{
+	margin-top: 35px;
 }
