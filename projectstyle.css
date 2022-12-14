@@ -162,3 +162,33 @@ body > main > section.horline{
 margin-bottom: 50px;
 margin-top: 70px;
 }
+
+body > main > section.C > img{
+    width: 200px;
+    margin-left: 700px;	
+}
+
+body > main > section.C > p{
+    width: 650px;
+    margin-top: -175px;
+}
+
+body > main > section.comiot > p{
+	    margin-top: -255px;
+}
+
+body > main > section.assembly > p{
+margin-top: -210px;
+}
+
+body > main > section.Point.Cloud.Data > p{
+margin-top: -220px;	
+}
+
+body > main > section.SQL > p{
+margin-top: -255px;
+}
+
+body > main > section.java > p{
+    margin-top: -255px;
+}
