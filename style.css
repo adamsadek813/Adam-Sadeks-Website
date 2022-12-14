@@ -133,6 +133,17 @@ margin-top: 50px;
 
 }
 
+
+body > main > section.side_panel > ul:nth-child(1) > li:nth-child(1){
+	padding-bottom: 21px;
+}
+
+body > main > section.side_panel > ul:nth-child(2) > li:nth-child(1){
+	padding-bottom: 21px;
+}
+
+
+
 body > main > section.side_panel > ul:nth-child(1) > li{
 	padding-top: 0px;
 	padding-bottom: 8px;
