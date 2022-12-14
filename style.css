@@ -21,6 +21,10 @@ border: solid;
 font-family: 'Oswald', san-serif;
 }
 
+body > header > div > div:nth-child(1) > ul > li{
+margin-left: -38px;
+}
+
 body > main > section.side_panel > ul > li:nth-child(1){
 font-family: 'Oswald', san-serif;
 }
