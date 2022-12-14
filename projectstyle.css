@@ -152,10 +152,10 @@ vertical-align: top;
 }
 
 li {
+margin-left: -20px;
 list-style-type: none;
 padding-top: 7px;
 padding-bottom: 15px;
-margin-left: -20px;
 }
 
 body > main > section.horline{
