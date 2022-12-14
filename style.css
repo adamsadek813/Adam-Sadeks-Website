@@ -399,3 +399,7 @@ margin-bottom: -30px;
 body > main > section.main_body > section > div > ul > li:nth-child(4) > p{
 margin-bottom: 0px;
 }
+
+body > header > div > div:nth-child(1) > ul{
+	margin-left: 20px;
+}
