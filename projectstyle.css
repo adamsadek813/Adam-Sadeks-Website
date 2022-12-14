@@ -192,3 +192,15 @@ margin-top: -255px;
 body > main > section.java > p{
     margin-top: -255px;
 }
+
+body > main > section.python > p{
+    margin-top: -240px;
+}
+
+body > main > section.writing > p{
+	margin-top: -235px;
+}
+
+body > main > section.HASKELL > p{
+	margin-top: -250px;
+}
