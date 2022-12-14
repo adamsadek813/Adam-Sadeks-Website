@@ -204,3 +204,7 @@ body > main > section.writing > p{
 body > main > section.HASKELL > p{
 	margin-top: -250px;
 }
+
+body > main > section.Research > div{
+margin-top: 937px;
+}
