@@ -267,6 +267,11 @@ body > main > section.main_body > ul:nth-child(12) > li{
 font-family: 'Manrope', sans-serif;
 }
 
+
+body > main > section.side_panel > ul:nth-child(3) > li:nth-child(4) > p:nth-child(2){
+margin-top:-15px;
+}
+
 body > main > section.side_panel > ul:nth-child(3) > li:nth-child(3) > p:nth-child(2){
 margin-top:-15px;
 }
@@ -274,6 +279,7 @@ margin-top:-15px;
 body > main > section.side_panel > ul:nth-child(3) > li:nth-child(2) > p:nth-child(2){
 margin-top:-15px;
 }
+
 
 body > main > section.main_body > ul:nth-child(5) > li{
 list-style: none;
