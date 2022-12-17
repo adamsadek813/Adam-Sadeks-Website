@@ -416,3 +416,7 @@ body > header > div > div:nth-child(1) > ul{
 body > main > section.side_panel > ul:nth-child(3) > li{
 padding-bottom: 20px;	
 }
+
+body > main > section.main_body > ul:nth-child(11){
+	margin-top: -20px;
+}
