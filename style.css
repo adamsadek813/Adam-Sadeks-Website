@@ -131,7 +131,6 @@ width: 300px;
 
 body > main > section.side_panel{
 margin-top: 50px;
-
 }
 
 
@@ -178,6 +177,10 @@ position: absolute;
 
 body > main > section.main_body{
 margin-top: 50px;
+}
+
+body > main > section.main_body > ul:nth-child(3){
+margin-top: 45px;
 }
 
 body > main > section.side_panel > ul > li:nth-child(1){
