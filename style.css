@@ -198,6 +198,7 @@ position: absolute;
 
 body > main > section.main_body{
 margin-top: 50px;
+padding-bottom: 65px;
 }
 
 body > main > section.main_body > ul:nth-child(3){
