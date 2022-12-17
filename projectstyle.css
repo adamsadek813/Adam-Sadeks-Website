@@ -58,8 +58,10 @@ margin-left: -244px;
 
 #horizontal-list > li:nth-child(1) a{
 position: absolute;
-margin-top: -10px;
-margin-left: -45px;
+margin-top: -7px;
+margin-left: -55px;
+font-weight: bolder;
+
 }
 
 #horizontal-list > li:nth-child(2){
@@ -80,8 +82,9 @@ width: 90px;
 
 #horizontal-list > li:nth-child(2) a{
 position: absolute;
-margin-top: -10px;
-margin-left: -69px;
+margin-top: -19px;
+margin-left: -74px;
+font-weight: bolder;
 }
 
 ul#horizontal-list {
@@ -127,7 +130,7 @@ body {
 background-color: #d0e1f3;
 margin: auto;
 width: 1000px;
-font-family: 'EB Garamond', serif;
+font-family: 'Helvetica';
 }
 
 body > header > div {
