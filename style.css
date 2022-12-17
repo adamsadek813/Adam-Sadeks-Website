@@ -69,8 +69,9 @@ margin-left: -244px;
 
 #horizontal-list > li:nth-child(1) a{
 position: absolute;
-margin-top: -8px;
-margin-left: -52px;
+margin-top: -5px;
+margin-left: -53px;
+font-weight: bolder;
 }
 
 #horizontal-list > li:nth-child(2){
@@ -91,8 +92,9 @@ width: 90px;
 
 #horizontal-list > li:nth-child(2) a{
 position: absolute;
-margin-top: -18px;
-margin-left: -77px;
+margin-top: -17px;
+margin-left: -80px;
+font-weight: bolder;
 }
 
 ul#horizontal-list {
