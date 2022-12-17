@@ -17,7 +17,7 @@ font-weight: normal;
 h3{
 margin-bottom: -25px;
 border: solid;
-
+margin-top: 50px;
 }
 
 body > header > div > div:nth-child(1) > ul > li{
@@ -167,7 +167,7 @@ body > main > section.main_body > ul:nth-child(6) > li{
 body > main > section.verline{
 position: absolute;
     width: 10px;
-    height: 935px;
+    height: 1020px;
     border-right: 10px solid;
     margin-top: 47px;
     margin-left: 264px;
