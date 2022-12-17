@@ -179,10 +179,12 @@ margin-bottom: -50px;
 
 body > main > section.main_body > ul:nth-child(3) > li{
 	list-style: disc;
+	padding-bottom: 0px;
 }
 
 body > main > section.main_body > ul:nth-child(6) > li{
 	list-style: disc;
+	padding-bottom: 0px;
 }
 
 body > main > section.verline{
