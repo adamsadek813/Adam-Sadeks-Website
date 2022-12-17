@@ -408,3 +408,8 @@ margin-bottom: 0px;
 body > header > div > div:nth-child(1) > ul{
 	margin-left: 20px;
 }
+
+
+body > main > section.side_panel > ul:nth-child(3) > li{
+padding-bottom: 20px;	
+}
