@@ -255,11 +255,10 @@ margin-top: 28px;
 margin-left: 0px;
 }
 
-body > main > section.main_body > ul:nth-child(2) > li{
-margin: -45px;
+/*body > main > section.main_body > ul:nth-child(2) > li{
 margin-top: -10px;
 margin-left: -20px;
-}
+}*/
 
 body > main > section.main_body > ul:nth-child(7) > li > h4{
 margin-left:-20px;
@@ -318,11 +317,11 @@ body > main > section.main_body > h4{
 text-decoration:underline;
 }
 
-body > main > section.main_body > ul:nth-child(2) > li > h4{
+/*body > main > section.main_body > ul:nth-child(2) > li > h4{
 margin-bottom: -15px;
 margin-top: 0px;
 margin-left: -20px;
-}
+}*/
 
 body > main > section.main_body > ul:nth-child(4) > li > h4{
 margin-top: 3px;
