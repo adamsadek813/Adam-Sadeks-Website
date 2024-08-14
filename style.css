@@ -256,7 +256,6 @@ margin-left: 0px;
 }
 
 body > main > section.main_body > ul:nth-child(2) > li{
-list-style: none;
 margin: -45px;
 margin-top: -10px;
 margin-left: -20px;
@@ -288,21 +287,18 @@ margin-top:-15px;
 }
 
 body > main > section.main_body > ul:nth-child(5) > li{
-list-style: none;
 margin: -45px;
 margin-top: -10px;
 margin-left: -20px;
 }
 
 body > main > section.main_body > ul:nth-child(12) > li{
-list-style: none;
 margin: -45px;
 margin-top: -10px;
 margin-left: -20px;
 }
 
 body > main > section.main_body > ul:nth-child(5) > li{
-list-style: none;
 margin: -45px;
 margin-top: -10px;
 margin-left: -20px;
