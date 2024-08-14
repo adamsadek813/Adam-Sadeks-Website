@@ -25,7 +25,6 @@ margin-top: 42px;
 h3{
 margin-bottom: -25px;
 border: solid;
-margin-top: 87px;
 }
 
 body > header > div > div:nth-child(1) > ul > li{
@@ -41,11 +40,6 @@ body > main > section.side_panel > ul > li:nth-child(1){
 
 body > main > section.main_body > h3:nth-child(15){
 margin-bottom: -5px;
-}
-
-body > main > section.main_body > h3:nth-child(1){
-margin-top: 20px;
-margin-bottom: 20px;
 }
 
 #menu-outer {
