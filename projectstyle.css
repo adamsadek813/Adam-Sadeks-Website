@@ -38,7 +38,7 @@ padding-right: 56.9px;
 padding-top: 20px;
 padding-bottom: 0px;
 font-size: 20px;
-background-color: #d0e1f3;
+background-color: #fff3e7;
 position: absolute;
 border-style: double;
 margin-top: -21px;
@@ -61,7 +61,7 @@ font-weight: bolder;
     padding-top: 20px;
     padding-bottom: 0px;
     font-size: 20px;
-    background-color: #d0e1f3;
+    background-color: #fff3e7;
     position: absolute;
     margin-left: 50px;
     border-style: double;
@@ -93,7 +93,7 @@ ul#horizontal-list li {
 h2{
 font-family: 'Helvetica';
 background-color:black;
-color:#d0e1f3;
+color:#fff3e7;
 text-align: center;
 }
 
@@ -117,7 +117,7 @@ margin-top: -241px;
 }
 
 body {
-background-color: #d0e1f3;
+background-color: #fff3e7;
 margin: auto;
 width: 1000px;
 font-family: 'Helvetica';
