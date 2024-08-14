@@ -445,3 +445,7 @@ list-style: none;
 body > header > div > div:nth-child(2) > ul > li{
 list-style: none;
 }
+
+body > main > section.side_panel > ul > li {
+list-style: none;
+}
