@@ -430,7 +430,18 @@ body > main > section.main_body > ul:nth-child(13) > li > h4{
 margin-top: 0px;
 }
 
+
+
 body > main > section.main_body > ul{
 margin-top: 40px;
 margin-bottom: 40px;
+}
+
+
+body > header > div > div:nth-child(1) > ul > li{
+list-style: none;
+}
+
+body > header > div > div:nth-child(2) > ul > li{
+list-style: none;
 }
